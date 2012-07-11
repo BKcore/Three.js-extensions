@@ -1,5 +1,7 @@
 # Extensions
  * **THREE.Extras.RenderManager** : [Examples and explanations](http://bkcore.com/blog/3d/webgl-three-js-extension-rendermanager.html)
+ * **THREE.Extras.Shaders** : [Godrays example and explanations](http://bkcore.com/blog/3d/webgl-three-js-volumetric-light-godrays.html)
+ * **THREE.Extras.Utils** : Screen space projection.
 
 # License
 These extensions are released under the MIT License.
